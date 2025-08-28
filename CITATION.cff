@@ -5,5 +5,6 @@ authors:
     given-names: "Valente"
 date-released: 2025-08-28
 doi: 10.5281/zenodo.xxxxx
-url: "https://github.com/tuusuario/IoT-PCB-Educativa"
+url: "https://github.com/Vazzvel/PCB-for-IoT"
 license: "CERN-OHL-2.0"
+version: v1.0
