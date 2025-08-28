@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "PCB for IoT"
+authors:
+  - family-names: "Vázquez Velázquez"
+    given-names: "Valente"
+date-released: 2025-08-28
+doi: 10.5281/zenodo.xxxxx
+url: "https://github.com/tuusuario/IoT-PCB-Educativa"
+license: "CERN-OHL-2.0"
