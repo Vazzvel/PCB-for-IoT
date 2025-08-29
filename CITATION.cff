@@ -1,8 +1,11 @@
-cff-version: 1.1.0
+cff-version: 1.2.0
+title: "PCB-for-IoT"
+version: "v1.1"
+date-released: "2025-08-02"
 authors:
-- family-names: Vázquez-Velázquez
-  given-names: Valente
-orcid: https://orcid.org/0009-0004-7177-6882
-title:
-version: v1.0
-date-released: 2025-08-2
+  - family-names: "Vázquez Velázquez"
+    given-names: "Valente"
+    orcid: "https://orcid.org/0009-0004-7177-6882"
+license: "CERN-OHL-2.0"
+url: "https://github.com/Vazzvel/PCB-for-IoT"
+message: "Si usas este proyecto, por favor cítalo como se indica."
