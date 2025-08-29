@@ -16,7 +16,7 @@ El proyecto es *open hardware* y puede ser replicado, modificado y mejorado libr
 1. Descarga los archivos Gerber desde `hardware/gerbers/`.  
 2. Súbelos a un fabricante de PCBs (ej. [PCBWay](https://www.pcbway.com/), [OSH Park](https://oshpark.com/)).  
 3. Compra los componentes listados en `hardware/bom.csv/`.  
-4. Sigue el `manual_usuario.pdf` para el ensamble y pruebas.  
+4. Coloca y suelda los componentes 
 
 ---
 
@@ -45,4 +45,5 @@ howpublished = {\url{https://github.com/Vazzvel/PCB-for-IoT}}
 Las contribuciones son bienvenidas:  
 - Reporta errores en *Issues*.  
 - Envía mejoras mediante *Pull Requests*.  
+
 
